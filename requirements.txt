@@ -1,2 +1,4 @@
+# 本项目核心计算使用在线平台（AlphaFold Server, HPEPDOCK），无需本地GPU环境。
+# 以下依赖仅用于运行 predict.py 生成最终结果文件 results.xlsx。
 pandas>=2.0
 openpyxl>=3.1
