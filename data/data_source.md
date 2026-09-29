@@ -17,9 +17,9 @@
 - 下载的6BGT.pdb未经手动去水或去配体处理。
 - 多肽配体仅作为对接时的构象采样对象，最终以对接打分排序。
 
-- ## 本地分析工具
-- PyMOL：用于多肽结构可视化、结构叠合与 RMSD 计算，详细说明见 `models/PyMOL_usage.md`。
-
-## 在线平台
+- ## 在线平台
 - AlphaFold Server (AlphaFold 3): https://alphafoldserver.com
 - HPEPDOCK 2.0: http://huanglab.phys.hust.edu.cn/hpepdock/
+
+## 本地分析工具
+- PyMOL：用于多肽结构可视化、结构叠合与 RMSD 计算，详细说明见 `models/PyMOL_usage.md`。
