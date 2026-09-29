@@ -1,0 +1,9 @@
+run_id,sequence,platform,date,output_file
+L,LTVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L.cif
+L1,ATVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L1.cif
+L2,LAVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L2.cif
+L3,LTASPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L3.cif
+L4,LTVAPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L4.cif
+L5,LTVSAWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L5.cif
+L6,LTVSPAY,AlphaFold Server,2026-09-28,results/alphafold_structures/L6.cif
+L7,LTVSPWA,AlphaFold Server,2026-09-28,results/alphafold_structures/L7.cif
