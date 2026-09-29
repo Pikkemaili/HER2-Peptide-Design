@@ -9,7 +9,7 @@
 ## 二、使用工具
 - AlphaFold Server：输入为单链7肽序列，MSA默认，Copies=1，输出为model_0.cif及summary_confidences.json。
 - HPEPDOCK 2.0：受体为6BGT.pdb（未经去水/去配体处理，直接使用），肽段输入为FASTA序列，其余参数默认。
-- PyMOL，版本：未使用
+- PyMOL（用于结构叠合与RMSD计算），版本：3.1.8
 
 ## 三、候选筛选与排序规则
 1. 首先通过 AlphaFold 3 预测 8 条候选肽的结构，计算 pLDDT 局部置信度。
