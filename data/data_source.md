@@ -12,6 +12,11 @@
 - 获取日期：2026-09-28
 - 许可：PDB公共数据，可自由使用。
 
+- ### 6BGT 结构处理说明
+- 使用HPEPDOCK在线平台默认的预处理流程。
+- 下载的6BGT.pdb未经手动去水或去配体处理。
+- 多肽配体仅作为对接时的构象采样对象，最终以对接打分排序。
+
 ## 在线平台
 - AlphaFold Server (AlphaFold 3): https://alphafoldserver.com
 - HPEPDOCK 2.0: http://huanglab.phys.hust.edu.cn/hpepdock/
