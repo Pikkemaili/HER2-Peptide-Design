@@ -3,7 +3,7 @@
 ## 工具信息
 - 名称：AlphaFold2 (Colab网页端)
 - 网址：https://colab.research.google.com/
-- 访问日期：2026-10-02
+- 访问日期：2026-09-09
 
 ## 输入序列
 L: LTVSPWY, L1: ATVSPWY, L2: LAVSPWY, L3: LTASPWY, 
