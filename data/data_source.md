@@ -9,17 +9,17 @@
 - 来源：RCSB PDB (https://www.rcsb.org/structure/6BGT)
 - 描述：Trastuzumab Fab mutant in complex with HER2 extracellular domain
 - 分辨率：2.7 Å
-- 获取日期：2026-09-28
+- 获取日期：2026-09-10
 - 许可：PDB公共数据，可自由使用。
 
-- ### 6BGT 结构处理说明
-- 使用HPEPDOCK在线平台默认的预处理流程。
-- 下载的6BGT.pdb未经手动去水或去配体处理。
-- 多肽配体仅作为对接时的构象采样对象，最终以对接打分排序。
+### 6BGT 结构处理说明
+- 使用 HPEPDOCK 在线平台默认的预处理流程。
+- 下载的 6BGT.pdb 未经手动去水或去配体处理。
+- 多肽配体作为对接时的构象采样对象，最终以对接打分排序为准。
 
-- ## 在线平台
-- AlphaFold Server (AlphaFold 3): https://alphafoldserver.com
-- HPEPDOCK 2.0: http://huanglab.phys.hust.edu.cn/hpepdock/
+## 在线平台
+- AlphaFold2 (Colab网页端)：https://colab.research.google.com/
+- HPEPDOCK 2.0：http://huanglab.phys.hust.edu.cn/hpepdock/
 
 ## 本地分析工具
 - PyMOL：用于多肽结构可视化、结构叠合与 RMSD 计算，详细说明见 `models/PyMOL_usage.md`。
