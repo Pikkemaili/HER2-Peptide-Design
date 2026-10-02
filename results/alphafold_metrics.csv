@@ -1,9 +1,9 @@
 candidate_id,plddt,model,run_date
-L,82,AlphaFold3,2026-09-28
-L1,85,AlphaFold3,2026-09-28
-L2,80,AlphaFold3,2026-09-28
-L3,82,AlphaFold3,2026-09-28
-L4,80,AlphaFold3,2026-09-28
-L5,88,AlphaFold3,2026-09-28
-L6,94,AlphaFold3,2026-09-28
-L7,95,AlphaFold3,2026-09-28
+L,74.9,AlphaFold2,2026-10-02
+L1,77.2,AlphaFold2,2026-10-02
+L2,72.7,AlphaFold2,2026-10-02
+L3,75.1,AlphaFold2,2026-10-02
+L4,77,AlphaFold2,2026-10-02
+L5,71.5,AlphaFold2,2026-10-02
+L6,70.5,AlphaFold2,2026-10-02
+L7,72.4,AlphaFold2,2026-10-02
