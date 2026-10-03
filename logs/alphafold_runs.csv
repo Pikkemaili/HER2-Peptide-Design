@@ -1,9 +1,9 @@
 run_id,sequence,platform,date,output_file
-L,LTVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L.cif
-L1,ATVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L1.cif
-L2,LAVSPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L2.cif
-L3,LTASPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L3.cif
-L4,LTVAPWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L4.cif
-L5,LTVSAWY,AlphaFold Server,2026-09-28,results/alphafold_structures/L5.cif
-L6,LTVSPAY,AlphaFold Server,2026-09-28,results/alphafold_structures/L6.cif
-L7,LTVSPWA,AlphaFold Server,2026-09-28,results/alphafold_structures/L7.cif
+L,LTVSPWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L.pdb
+L1,ATVSPWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L1.pdb
+L2,LAVSPWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L2.pdb
+L3,LTASPWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L3.pdb
+L4,LTVAPWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L4.pdb
+L5,LTVSAWY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L5.pdb
+L6,LTVSPAY,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L6.pdb
+L7,LTVSPWA,AlphaFold2 (Colab),2026-09-09,results/alphafold_structures/L7.pdb
