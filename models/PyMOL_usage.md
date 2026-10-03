@@ -32,3 +32,16 @@
 - L1-L4 的 RMSD 极小（<0.6 Å），说明 N 端及中段突变未破坏多肽骨架。
 - **L5 的 RMSD 显著升高至 2.305 Å**，说明第 5 位氨基酸的替换导致了显著的构象重排。
 该结果为后续选择 L5 进行 HPEPDOCK 对接和湿实验验证提供了关键的结构依据。
+
+## 七、对接复合物可视化
+
+对接结果的可视化命令保存在 `src/` 目录下：
+- `src/visualize_L.pml`：查看原始肽 L 与 HER2 的结合模式。
+- `src/visualize_L5.pml`：查看 L5 变体与 HER2 的结合模式。
+
+使用方法：
+1. 启动 PyMOL，在命令行输入 `cd 到你的仓库根目录`。
+2. 输入 `@src/visualize_L.pml` 或 `@src/visualize_L5.pml`。
+3. 脚本会自动加载 6BGT 和对接复合物，显示结合口袋、氢键和关键残基标签。
+
+生成的图片已保存在 `results/docking_visualization/`。
