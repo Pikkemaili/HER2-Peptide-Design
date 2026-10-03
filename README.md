@@ -27,6 +27,7 @@
 ```bash
 pip install -r requirements.txt
 python predict.py
+```
 
 ## 六、对接复合物可视化
 本项目使用 PyMOL 3.1.8 对 HPEPDOCK 对接的复合物进行结合模式分析。可视化脚本保存在 `src/` 目录下：
