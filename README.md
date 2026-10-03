@@ -27,3 +27,15 @@
 ```bash
 pip install -r requirements.txt
 python predict.py
+
+## 六、对接复合物可视化
+本项目使用 PyMOL 3.1.8 对 HPEPDOCK 对接的复合物进行结合模式分析。可视化脚本保存在 `src/` 目录下：
+- `src/visualize_L.pml`：查看原始肽 L 与 HER2 的结合模式。
+- `src/visualize_L5.pml`：查看 L5 变体与 HER2 的结合模式。
+
+使用方法：
+1. 启动 PyMOL，在命令行输入 `cd 到仓库根目录`。
+2. 输入 `@src/visualize_L.pml` 或 `@src/visualize_L5.pml`。
+3. 脚本会自动加载 6BGT 和对接复合物，显示结合口袋、氢键和关键残基标签。
+
+生成的结合口袋图已保存在 `results/docking_visualization/`。
